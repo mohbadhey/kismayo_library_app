@@ -1,6 +1,8 @@
 # project
 
-A new Flutter project.
+This is a Flutter project made for kismayo university's library to enable students access they data on the books they borrowed or returned to the library and the number of visitations thet made the whole semester.
+
+Developed and Designed by BIT07 students of the classs of 2024
 
 ## Getting Started
 
